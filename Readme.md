@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/E1805/Default.aspx) (VB: [Default.aspx.vb](./VB/E1805/Default.aspx.vb))
+* [Default.aspx](./CS/E1805/Default.aspx) (VB: [Default.aspx](./VB/E1805/Default.aspx))
 * [Default.aspx.cs](./CS/E1805/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E1805/Default.aspx.vb))
 <!-- default file list end -->
 # Create Header or Field Value Templates and replicate existing look-and-feel
