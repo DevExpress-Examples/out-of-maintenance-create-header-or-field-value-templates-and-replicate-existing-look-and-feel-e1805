@@ -1,14 +1,6 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128577063/21.2.3%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1805)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 
 
 # Pivot Grid for Web Forms - Create Header or Field Value Templates and Replicate Existing Look-and-Feel
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1805/)**
-<!-- run online end -->
 
 This example demonstrates how to customize the [Field Header](https://docs.devexpress.com/AspNet/3588/components/pivot-grid/ui-elements/column-header-area) and [Field Value](https://docs.devexpress.com/AspNet/3597/components/pivot-grid/ui-elements/field-value) templates, and keep automatic appearance and functionality. It is not possible to simply replace the default Header or Value element with a custom label, because these elements have a really complex layout. Ordinarily, it consists of a table including a few cells with nested items, and attached styles and scripts. These elements are generated dynamically based on the current pivot grid layout.   
 
